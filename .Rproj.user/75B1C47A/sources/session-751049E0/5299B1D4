@@ -1,0 +1,28 @@
+{
+    "id": "5299B1D4",
+    "path": "~/Desktop/rmd_embed_pdf/test.Rmd",
+    "project_path": "test.Rmd",
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1666968250119.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "14,38",
+        "scrollLine": "0",
+        "last_setup_crc32": "751049E0bb338d19"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1666969082,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1666969082577,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,18 @@
+---
+title: "Untitled"
+output:
+  html_document: default
+  pdf_document: default
+date: "2022-10-28"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![](./Day_1.pdf)
+
+```{r,out.width="100%", out.height="100%"}
+knitr::include_graphics("./Day_1.pdf")
+```
+
